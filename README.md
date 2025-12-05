@@ -7,6 +7,6 @@ While I'm learning, I also share this files on my git repos.So you don't have to
 
 *****LEARNING NEVER ENDS AND YOU'VE GOT 1/0 STORAGE IN YOUR MEMORY*****
 
-1/0 NOT RETURNS ZERO DIVISION ERROR just like python, it returns infinity in maths!.
+1/0 NOT RETURNS ZERODIVISIONERROR just like python, it returns infinity in maths!.
 
 ***INFINITE POTENTIAL FOR THE WILL-NESS***
