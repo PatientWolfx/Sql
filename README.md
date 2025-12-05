@@ -1,7 +1,12 @@
 # Sql
 Just for Beginners!
 
-Hey there, Whoever find this repo's useful just give a follow and ping me for any discussions. 
+Hey there, This repo is created mainly for beginner sql learners. I'm also in a learning phase
 While I'm learning, I also share this files on my git repos.So you don't have to get your hands dirty by digging deep down to the treasure. 
 
-  AS I'M GIFTING YOU ENOUGH GOLD TO SPEND IN YOUR LIFE!
+
+*****LEARNING NEVER ENDS AND YOU'VE GOT 1/0 STORAGE IN YOUR MEMORY*****
+
+1/0 NOT RETURNS ZERO DIVISION ERROR just like python, it returns infinity in maths!.
+
+***INFINITE POTENTIAL FOR THE WILL-NESS***
