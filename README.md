@@ -5,7 +5,7 @@ Hey there, This repo is created mainly for beginner sql learners.
 I'm sharing this files on my repo.So you don't have to get your hands dirty by digging deep down to the treasure. 
 
 
-*****LEARNING NEVER ENDS AND YOU'VE GOT 1/0 POTENTIAL*****
+*****LEARNING NEVER ENDS AND YOU'VE GOT 1/0 POTENTIAL!*****
 
 1/0 not returns ZERODIVISIONERROR just like python, it returns infinity in maths!.
 
