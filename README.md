@@ -9,8 +9,6 @@ I'm sharing this files on my repo.So you don't have to get your hands dirty by d
 
 1/0 not returns ZERODIVISIONERROR just like python, it returns infinity in maths!.
 
-***INFINITE POTENTIAL FOR THE WILL-NESS***
-
 **NOTE**
 
   While viewing in github preview, the notes won't be visible as it is stored in a raw cell inside jupyter notebook file.So download and view it with jupyter notebook.
